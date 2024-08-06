@@ -7,7 +7,6 @@
 - 📫 Verifico meus e-mails diariamente em busca
 - de oportunidades
 - 😄 Pronomes: ele/dele
-- 
 - Fato divertido: estudo e programo pelo celular, mas isso não me impede de chegar onde eu cheguei e ainda irei chegar 💪
 
 <!---
