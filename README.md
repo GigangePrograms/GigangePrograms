@@ -8,9 +8,7 @@
 - de oportunidades
 - 😄 Pronomes: ele/dele
 - 
-- Fato divertido: estudo e programo pelo
-- celular, mas isso não me impede de chegar onde
-- eu cheguei e ainda irei chegar 💪
+- Fato divertido: estudo e programo pelo celular, mas isso não me impede de chegar onde eu cheguei e ainda irei chegar 💪
 
 <!---
 GigangePrograms/GigangePrograms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
